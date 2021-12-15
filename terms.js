@@ -21,7 +21,7 @@ const Terms = (props) => {
       <View style={{flex:1, alignItems:'center', padding:20, marginTop:100}}>
       <View style={{marginTop:40, backgroundColor:'#F2F2F2', height:300, padding:10, borderRadius:10}}>
 
-      <Text style={{ marginLeft:90, fontSize:20, marginTop:20, color:'#006BA6' }}>Terms of service </Text>
+      <Text style={{ marginLeft:90, fontSize:20, marginTop:20, color:'#006BA6' }}>Terms of service has been modified </Text>
       <Text style={{ marginLeft:10, marginTop:20, fontSize:16 }}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in mauris in justo placerat
            tincidunt nec quis elit. Nunc pulvinar fringilla mi, nec suscipitLorem ipsum dolor sit amet,
             consectetur adipiscing elit. Proin in mauris in justo placerat tincidunt nec quis elit.
